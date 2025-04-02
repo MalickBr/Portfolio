@@ -2,7 +2,6 @@
 
 header {
   background: #ccc url('../asset/Bann.png')no-repeat  fixed center center / cover;
-  object-fit: contain;
   height: 45.0rem;
 
   h1 {
@@ -38,7 +37,7 @@ header {
 }
 
 body{
-  background-color: #101624;
+  background-color: #080c18;
 }
 
 nav ul{
@@ -89,12 +88,16 @@ figure{
 }
 
 .service{
-  background-color: #273D4A;
-  border: 3px solid #273D4A;
+  background-color: #131823;
+  border: 3px solid #080c18;
   font-size: 22px;
   text-align: center;
   padding: 15px;
+  box-shadow:  2px 3px black;
+  border-radius: 7px;
+  color: #828282;
 }
+
 
 h3{
   text-align: center;
@@ -103,6 +106,36 @@ h3{
 }
 
 
+.realisations{
+  display: flex;
+  background-color: #131823;
+  border: 3px solid #080c18;
+  color: #828282;
+  font-size: 22px;
+  margin: 0px 150px 0 150px;
+  padding: 40px;
+  box-shadow:  2px 3px black;
+  border-radius: 7px;
+  gap:60px;
+}
+
+.realisations strong{
+  color: black;
+}
+
+
+hr{
+  font-size: 70px;
+  border: none; /* Enlève la bordure par défaut */
+  height: 2px; /* Épaisseur du trait */
+  background-color: #828282; /* Couleur du trait */
+  height: 2.5px; /* Épaisseur */
+}
+
+/*
+.duo1{
+  display: flex;
+}
 /*
 #collection{
   align-items: center;
