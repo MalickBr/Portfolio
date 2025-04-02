@@ -37,6 +37,10 @@ header {
   }
 }
 
+body{
+  background-color: #101624;
+}
+
 nav ul{
   display: flex;
   gap: 2.3rem;
@@ -50,12 +54,33 @@ nav ul{
   }
 }
 
+h2{
+  text-align: center;
+  padding: 5.0rem 0 5.0rem 0;
+  color: #f9c349;
+}
 
 figure{
-
+    display: flex;
+    justify-content: center;
+    gap: 2.5rem;
+    color: white;
   h2{
     text-align: center;
-    padding-top: 3.5rem;
+    padding: 3.5rem 0 3.5rem 0 ;
+  }
+
+  figcaption{
+    font-size: 2.1rem;
+  }
+
+  button{
+    background-color: #fea800;
+    height: 40px;
+    width: 15.0rem;
+    color: black;
+    font-size: 1.5rem;
+    border-radius: 5.0rem;
   }
 }
 
