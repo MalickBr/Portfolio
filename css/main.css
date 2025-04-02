@@ -1,0 +1,73 @@
+@import url(./reset.css);
+
+header {
+  background: #ccc url('../asset/Bann.png')no-repeat  fixed center center / cover;
+  object-fit: contain;
+  height: 45.0rem;
+
+  h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 2.4rem;
+    padding-top: 1.2rem;
+  }
+
+  nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 8rem 2rem 8rem;
+  }
+
+  p{
+    padding-top: 4rem;
+    text-align: center;
+    font-size: 2.8rem;
+    color: #ffffff;
+  }
+
+  #collection{
+    display: flex;
+    justify-content: center;
+    gap: 3.5rem;
+    font-size: 3rem;
+    padding-top: 2.5rem;
+    color: #ffffff;
+    text-align: center;
+  }
+}
+
+nav ul{
+  display: flex;
+  gap: 2.3rem;
+  padding-top: 1.7rem;
+  font-size: 2.3rem;
+
+  li a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+  }
+}
+
+
+figure{
+
+  h2{
+    text-align: center;
+    padding-top: 3.5rem;
+  }
+}
+
+
+/*
+#collection{
+  align-items: center;
+  font-size: 80px;
+  color: #ffffff;
+}
+/*
+#logo{
+  margin-top: 3px ;
+  floa
+}
