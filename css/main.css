@@ -65,10 +65,6 @@ figure{
     justify-content: center;
     gap: 2.5rem;
     color: white;
-  h2{
-    text-align: center;
-    padding: 3.5rem 0 3.5rem 0 ;
-  }
 
   figcaption{
     font-size: 2.1rem;
@@ -82,6 +78,28 @@ figure{
     font-size: 1.5rem;
     border-radius: 5.0rem;
   }
+}
+
+
+.services{
+  padding: 0 100px 100px 100px;
+  display:grid;
+	grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap:10px;
+}
+
+.service{
+  background-color: #273D4A;
+  border: 3px solid #273D4A;
+  font-size: 22px;
+  text-align: center;
+  padding: 15px;
+}
+
+h3{
+  text-align: center;
+  padding: 6.0rem 0 6.0rem 0;
+  color: #f9c349;
 }
 
 
