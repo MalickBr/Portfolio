@@ -145,17 +145,15 @@ h3:hover {
 }
 
 .images {
-  padding: 0 10rem 0 10rem;
+  padding: 0 10rem 0 20rem;
   display:grid;
   grid-template-columns: repeat(2, 1fr);
-  
 }
 
 .images img {
-  height: 95%;
-  width: 97%;
-  border: 2px solid #828282;
-  line-height: 4.8;
+  height: 80%;
+  width: 82%;
+  border: 3px solid #828282;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
   transition: transform 0.3s ease;
