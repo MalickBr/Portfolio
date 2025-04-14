@@ -90,7 +90,7 @@ figure{
   cursor: pointer;
 }
 
-.services{
+.Services{
   padding: 0 10rem 2rem 10rem;
   display:grid;
 	grid-template-columns: repeat(auto-fill, minmax(35rem, 1fr));
@@ -127,7 +127,7 @@ h3:hover {
   transform: scale(1.04);
 }
 
-.realisations{
+.Realisations{
   display: flex;
   background-color: #131823;
   border: 3px solid #080c18;
@@ -140,7 +140,7 @@ h3:hover {
   gap:6rem;
 }
 
-.realisations strong{
+.Realisations strong{
   color: black;
 }
 
