@@ -161,6 +161,7 @@ h3:hover {
 
 .images img:hover {
   transform: scale(1.04);
+  cursor: pointer;
 }
 
 .fa-circle-chevron-down{
