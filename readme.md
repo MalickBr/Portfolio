@@ -8,6 +8,7 @@ Découvrez mon portfolio, une vitrine interactive de mes réalisations en dével
 - ⚡ HTML5
 - 🎨 CSS3
 - 💻 JavaScript
+- 🚀 Php
 
 ## 📂 Contenu du site
 
