@@ -1,5 +1,5 @@
 
-# 💻 Portfolio de Développeur FullStack
+# 💻 Portfolio de Développeur Web
 
 Découvrez mon portfolio, une vitrine interactive de mes réalisations en développement web. À travers ce site, je vous invite à explorer mes projets innovants, mes compétences techniques et à établir un contact professionnel.
 
